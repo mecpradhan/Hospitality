@@ -1,7 +1,7 @@
 # Hospitality
 
 
-This project focuses on answering some of the challenges faced hospitality chain of AtliQ. Related information about the properties and booking information for two were shared. To validate and substantiate the finding PowerPivot and DAX measures were used.
+This project focuses on answering some of the challenges faced by hospitality chain of AtliQ. Related information about the properties and booking information for two months were shared. To validate and substantiate the finding PowerPivot and DAX measures were used.
 
 
 Booking Platforms by Week Report
